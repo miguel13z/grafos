@@ -1,3 +1,36 @@
+# Imagens e plots de grafos gerados localmente
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# Datasets e matrizes (Descomente o que não quiser subir para o repositório)
+# *.csv
+# *.gml
+# *.graphml
+# *.txt
+# *.json
+
+# PyCharm e VS Code
+.idea/
+.vscode/
+*.iws
+*.iml
+*.ipr
+*.code-workspace
+
+# Arquivos de sistema e temporários do Linux
+.directory
+*~
+.fuse_hidden*
+.Trash-*
+
+# macOS / Windows (para colaboração cruzada)
+.DS_Store
+Thumbs.db
+$RECYCLE.BIN/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
